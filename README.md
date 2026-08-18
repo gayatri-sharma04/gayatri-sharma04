@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Gayatri Sharma 👋</h1>
-<h3 align="center">A passionate BICTE Student & Web Developer from Nawalparasi, Nepal.</h3>
+<h3 align="center">A passionate BICTE Student & Web Developer from Kathmandu.</h3>
 
 - 🔭 I'm currently working on **FarmLink** — a web platform connecting farmers with buyers
 - 🌱 I'm currently learning **Linux, Cloud Computing**
